@@ -1,0 +1,272 @@
+[
+  {
+    "id": "efaas",
+    "url": "https://efaas.egov.mv",
+    "title": "eFaas",
+    "ministryId": "homeland-security",
+    "tags": ["login", "digital-id", "identity", "auth"],
+    "description": "Digital identity and single sign-on service for online public portals.",
+    "status": "active",
+    "lastVerified": "2026-02-01"
+  },
+  {
+    "id": "gazette",
+    "url": "https://gazette.gov.mv",
+    "title": "Government Gazette",
+    "ministryId": "president-office",
+    "tags": ["gazette", "law", "announcement", "public-notice"],
+    "description": "Official gazette for government notices, regulations, and legal publications.",
+    "status": "active",
+    "lastVerified": "2026-01-28"
+  },
+  {
+    "id": "mof-portal",
+    "url": "https://finance.gov.mv",
+    "title": "Ministry of Finance Portal",
+    "ministryId": "finance",
+    "tags": ["finance", "budget", "tender", "procurement"],
+    "description": "Ministry portal for budget information, notices, and procurement updates.",
+    "status": "active",
+    "lastVerified": "2026-01-20"
+  },
+  {
+    "id": "mira-portal",
+    "url": "https://mira.gov.mv",
+    "title": "MIRA Portal",
+    "ministryId": "mira",
+    "tags": ["tax", "business", "payment", "return"],
+    "description": "Tax services, guidance, and payments for individuals and businesses.",
+    "status": "active",
+    "lastVerified": "2026-02-01"
+  },
+  {
+    "id": "immigration-imuga",
+    "url": "https://imuga.immigration.gov.mv",
+    "title": "IMUGA Traveller Declaration",
+    "ministryId": "immigration",
+    "tags": ["travel", "immigration", "arrival", "departure"],
+    "description": "Traveller declaration portal for arrivals and departures in Maldives.",
+    "status": "active",
+    "lastVerified": "2026-01-30"
+  },
+  {
+    "id": "immigration-xpat",
+    "url": "https://xpat.immigration.gov.mv",
+    "title": "XPAT Online System",
+    "ministryId": "immigration",
+    "tags": ["visa", "work", "permit", "employer"],
+    "description": "Work permit and expatriate services for employers and workers.",
+    "status": "active",
+    "lastVerified": "2026-01-30"
+  },
+  {
+    "id": "foreign-affairs",
+    "url": "https://foreign.gov.mv",
+    "title": "Foreign Affairs Portal",
+    "ministryId": "foreign-affairs",
+    "tags": ["diplomatic", "consular", "passport", "travel-advice"],
+    "description": "Consular information, diplomatic services, and travel advisories.",
+    "status": "active",
+    "lastVerified": "2026-01-22"
+  },
+  {
+    "id": "passport-service",
+    "url": "https://passport.gov.mv",
+    "title": "Passport Services",
+    "ministryId": "homeland-security",
+    "tags": ["passport", "renewal", "application", "identity"],
+    "description": "Online passport-related services and information for Maldivian citizens.",
+    "status": "active",
+    "lastVerified": "2026-01-26"
+  },
+  {
+    "id": "education-ministry",
+    "url": "https://education.gov.mv",
+    "title": "Education Ministry Portal",
+    "ministryId": "education",
+    "tags": ["education", "school", "policy", "student"],
+    "description": "Ministry updates, circulars, and policy information for education.",
+    "status": "active",
+    "lastVerified": "2026-01-29"
+  },
+  {
+    "id": "scholarship-portal",
+    "url": "https://scholarship.gov.mv",
+    "title": "Scholarship Portal",
+    "ministryId": "education",
+    "tags": ["scholarship", "education", "application", "student"],
+    "description": "Applications and updates for government scholarship opportunities.",
+    "status": "active",
+    "lastVerified": "2026-01-29"
+  },
+  {
+    "id": "teacher-licensing",
+    "url": "https://teacher.edu.gov.mv",
+    "title": "Teacher Licensing",
+    "ministryId": "education",
+    "tags": ["teacher", "license", "education", "professional"],
+    "description": "Teacher registration, licensing, and certification management portal.",
+    "status": "active",
+    "lastVerified": "2026-01-18"
+  },
+  {
+    "id": "health-ministry",
+    "url": "https://health.gov.mv",
+    "title": "Health Ministry Portal",
+    "ministryId": "health",
+    "tags": ["health", "policy", "public-health", "hospital"],
+    "description": "Health policy updates, guidance, and public health resources.",
+    "status": "active",
+    "lastVerified": "2026-01-24"
+  },
+  {
+    "id": "aasandha",
+    "url": "https://aasandha.mv",
+    "title": "Aasandha Services",
+    "ministryId": "health",
+    "tags": ["insurance", "health", "claim", "benefit"],
+    "description": "National health insurance services, claims, and scheme information.",
+    "status": "active",
+    "lastVerified": "2026-01-24"
+  },
+  {
+    "id": "covid-vaccine",
+    "url": "https://vaccine.health.gov.mv",
+    "title": "Vaccination Services",
+    "ministryId": "health",
+    "tags": ["vaccine", "health", "appointment", "certificate"],
+    "description": "Public vaccination information and related service updates.",
+    "status": "active",
+    "lastVerified": "2026-01-24"
+  },
+  {
+    "id": "job-center",
+    "url": "https://jobcenter.mv",
+    "title": "Job Center Maldives",
+    "ministryId": "economic-development",
+    "tags": ["job", "career", "employment", "recruitment"],
+    "description": "Job discovery portal connecting employers with job seekers.",
+    "status": "active",
+    "lastVerified": "2026-01-31"
+  },
+  {
+    "id": "business-registration",
+    "url": "https://business.egov.mv",
+    "title": "Business Registration",
+    "ministryId": "economic-development",
+    "tags": ["business", "registration", "company", "license"],
+    "description": "Online company registration and business licensing services.",
+    "status": "active",
+    "lastVerified": "2026-01-31"
+  },
+  {
+    "id": "transport-portal",
+    "url": "https://transport.gov.mv",
+    "title": "Transport Portal",
+    "ministryId": "transport-civil-aviation",
+    "tags": ["transport", "vehicle", "license", "road"],
+    "description": "Transport-related notices, forms, and licensing resources.",
+    "status": "active",
+    "lastVerified": "2026-01-19"
+  },
+  {
+    "id": "aviation-services",
+    "url": "https://aviation.gov.mv",
+    "title": "Civil Aviation Services",
+    "ministryId": "transport-civil-aviation",
+    "tags": ["aviation", "flight", "permit", "operator"],
+    "description": "Civil aviation guidelines, permits, and operator information.",
+    "status": "active",
+    "lastVerified": "2026-01-19"
+  },
+  {
+    "id": "social-services",
+    "url": "https://social.gov.mv",
+    "title": "Social Services Portal",
+    "ministryId": "social-family",
+    "tags": ["social", "welfare", "family", "support"],
+    "description": "Family and social protection information and service pathways.",
+    "status": "active",
+    "lastVerified": "2026-01-23"
+  },
+  {
+    "id": "pension-portal",
+    "url": "https://pension.gov.mv",
+    "title": "Pension Office Portal",
+    "ministryId": "pension",
+    "tags": ["pension", "retirement", "account", "statement"],
+    "description": "Pension account access, statements, and retirement information.",
+    "status": "active",
+    "lastVerified": "2026-01-25"
+  },
+  {
+    "id": "housing-portal",
+    "url": "https://housing.gov.mv",
+    "title": "Housing Services",
+    "ministryId": "housing",
+    "tags": ["housing", "land", "application", "infrastructure"],
+    "description": "Housing and infrastructure service updates, forms, and announcements.",
+    "status": "active",
+    "lastVerified": "2026-01-21"
+  },
+  {
+    "id": "land-portal",
+    "url": "https://land.gov.mv",
+    "title": "Land Services",
+    "ministryId": "housing",
+    "tags": ["land", "registry", "ownership", "application"],
+    "description": "Land-related services including records, applications, and notices.",
+    "status": "active",
+    "lastVerified": "2026-01-21"
+  },
+  {
+    "id": "mma-portal",
+    "url": "https://mma.gov.mv",
+    "title": "MMA Financial Information",
+    "ministryId": "mma",
+    "tags": ["bank", "finance", "currency", "regulation"],
+    "description": "Monetary and financial regulatory information from MMA.",
+    "status": "active",
+    "lastVerified": "2026-01-27"
+  },
+  {
+    "id": "stelco-ebill",
+    "url": "https://ebill.stelco.com.mv",
+    "title": "STELCO eBill",
+    "ministryId": "stelco",
+    "tags": ["electricity", "utility", "bill", "payment"],
+    "description": "Electricity bill viewing and payment services for STELCO customers.",
+    "status": "active",
+    "lastVerified": "2026-01-17"
+  },
+  {
+    "id": "mwsc-online",
+    "url": "https://online.mwsc.com.mv",
+    "title": "MWSC Online Services",
+    "ministryId": "wma",
+    "tags": ["water", "utility", "bill", "service-request"],
+    "description": "Water and sewerage billing and service request portal.",
+    "status": "active",
+    "lastVerified": "2026-01-17"
+  },
+  {
+    "id": "fuvahmulah-council",
+    "url": "https://fuvahmulah.gov.mv",
+    "title": "Fuvahmulah City Council Services",
+    "ministryId": "social-family",
+    "tags": ["council", "municipal", "application", "permit"],
+    "description": "City-level services, notices, and permit applications.",
+    "status": "active",
+    "lastVerified": "2026-01-16"
+  },
+  {
+    "id": "hajj-umrah",
+    "url": "https://hajj.gov.mv",
+    "title": "Hajj and Umrah Services",
+    "ministryId": "foreign-affairs",
+    "tags": ["hajj", "umrah", "travel", "application"],
+    "description": "Information and service workflows for Hajj and Umrah travel.",
+    "status": "active",
+    "lastVerified": "2026-01-15"
+  }
+]

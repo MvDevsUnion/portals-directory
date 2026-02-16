@@ -1,0 +1,33 @@
+[
+  { "id": "president-office", "name": "The President's Office" },
+  { "id": "finance", "name": "Ministry of Finance and Planning" },
+  { "id": "foreign-affairs", "name": "Ministry of Foreign Affairs" },
+  { "id": "education", "name": "Ministry of Education" },
+  { "id": "health", "name": "Ministry of Health" },
+  {
+    "id": "transport-civil-aviation",
+    "name": "Ministry of Transport and Civil Aviation"
+  },
+  {
+    "id": "economic-development",
+    "name": "Ministry of Economic Development and Trade"
+  },
+  {
+    "id": "homeland-security",
+    "name": "Ministry of Homeland Security and Technology"
+  },
+  {
+    "id": "social-family",
+    "name": "Ministry of Social and Family Development"
+  },
+  {
+    "id": "housing",
+    "name": "Ministry of Construction, Housing and Infrastructure"
+  },
+  { "id": "immigration", "name": "Maldives Immigration" },
+  { "id": "pension", "name": "Maldives Pension Administration Office" },
+  { "id": "mira", "name": "Maldives Inland Revenue Authority (MIRA)" },
+  { "id": "mma", "name": "Maldives Monetary Authority (MMA)" },
+  { "id": "stelco", "name": "STELCO" },
+  { "id": "wma", "name": "Male' Water and Sewerage Company (MWSC)" }
+]
