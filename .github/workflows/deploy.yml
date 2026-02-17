@@ -27,6 +27,8 @@ jobs:
 
       - name: Build
         run: bun run build
+        env:
+          PAGES_BASE_PATH: /portals-directory
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
