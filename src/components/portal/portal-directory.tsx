@@ -53,6 +53,23 @@ export function PortalDirectory({ portals, ministries }: PortalDirectoryProps) {
         </div>
       </section>
 
+      <a
+        href="https://forms.gle/zNm9dxAaK6sWeHjf7"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex flex-col gap-3 rounded-lg border border-dashed border-zinc-700 bg-zinc-900/60 px-5 py-4 transition-colors hover:border-zinc-500 hover:bg-zinc-900 sm:flex-row sm:items-center sm:justify-between sm:gap-4"
+      >
+        <div className="space-y-1">
+          <p className="font-medium text-white/90">Are we missing a portal?</p>
+          <p className="text-sm text-zinc-400">
+            Let us know by submitting the form. Help us grow the directory!
+          </p>
+        </div>
+        <span className="shrink-0 text-sm font-medium text-zinc-400">
+          Submit &rarr;
+        </span>
+      </a>
+
       <section className="space-y-5">
         <p className="text-sm text-zinc-600">
           {results.length} portal{results.length === 1 ? "" : "s"} found

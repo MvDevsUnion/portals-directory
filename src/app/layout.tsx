@@ -29,6 +29,19 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <footer className="border-t border-border py-6 text-center text-sm text-muted-foreground">
+          <p>
+            Powered by{" "}
+            <a
+              href="https://github.com/MvDevsUnion/portals-directory"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium underline underline-offset-4 hover:text-foreground transition-colors"
+            >
+              MvDevsUnion
+            </a>
+          </p>
+        </footer>
       </body>
     </html>
   );
